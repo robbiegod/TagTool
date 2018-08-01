@@ -4,7 +4,7 @@
   <mp:PhoneIdentity PhoneProductId="99fcc74a-fef7-496e-98cc-6c6c1c8a3b89" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>TagTool</DisplayName>
-    <PublisherDisplayName>rdf</PublisherDisplayName>
+    <PublisherDisplayName>ijwebsites</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
